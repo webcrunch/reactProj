@@ -1,0 +1,11 @@
+{
+  "name": "reactproj",
+  "version": "1.0.0",
+  "description": "an test for node.js mongodb and react js ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jarl h lindquist",
+  "license": "ISC"
+}
